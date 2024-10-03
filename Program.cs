@@ -24,7 +24,7 @@ class Program
 
                         while (reader.Read())
                         {
-                            string nombreGestor = reader["NombreGestor"].ToString();
+                            string nombreGestor = reader["NombreGestor"]?.ToString() ?? "Desconocido";
                             decimal monto = Convert.ToDecimal(reader["Monto"]);
                             Console.WriteLine("{0,-15} {1,10:C2}", nombreGestor, monto);
                         }
