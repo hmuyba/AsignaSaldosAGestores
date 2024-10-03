@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsignaSaldosAGestores", "AsignaSaldosAGestores.csproj", "{49E45BDF-3C1C-48E2-9436-2E70FA235792}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49E45BDF-3C1C-48E2-9436-2E70FA235792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49E45BDF-3C1C-48E2-9436-2E70FA235792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49E45BDF-3C1C-48E2-9436-2E70FA235792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49E45BDF-3C1C-48E2-9436-2E70FA235792}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {966F7EC7-F84E-437C-A127-3BC82C71C50B}
+	EndGlobalSection
+EndGlobal
